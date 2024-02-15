@@ -1,0 +1,2 @@
+# springSecurityAdminUser
+SpringSecurityAdminUser
